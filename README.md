@@ -1,4 +1,4 @@
-# Projets
+# Liste des différents projets universitaires
 
 
 Voici la liste de mes principaux projets effectués durant mes années à l'Université de Caen (en cliquant sur les liens vous aurez accès aux codes sources ainsi qu'aux rapports:
